@@ -1,0 +1,42 @@
+{
+  "manifest_version": 3,
+  "version": "1.2.0",
+  "name": "nightshadeNeon",
+  "description": "No matter where you are, everyone is always connected. Drench your browser in nightshadeNeon, and jump into the Wired.",
+  "icons": {
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [0, 0, 0],
+      "frame_inactive": [0, 0, 0],
+      "frame_incognito": [0, 0, 0],
+      "frame_incognito_inactive": [0, 0, 0],
+      "toolbar": [24, 24, 28],
+      "toolbar_text": [255, 255, 255],
+      "toolbar_button_icon": [57, 255, 20],
+      "tab_text": [255, 16, 240],
+      "tab_background_text": [57, 255, 20],
+      "tab_background_text_inactive": [0, 255, 255],
+      "background_tab": [0, 0, 0],
+      "background_tab_inactive": [0, 0, 0],
+      "bookmark_text": [57, 255, 20],
+      "button_background": [255, 16, 240],
+      "ntp_background": [0, 0, 0],
+      "ntp_text": [255, 255, 255],
+      "ntp_link": [57, 255, 20],
+      "ntp_section": [0, 0, 0],
+      "ntp_section_text": [255, 255, 255],
+      "ntp_section_link": [0, 255, 255],
+      "omnibox_background": [0, 0, 0],
+      "omnibox_text": [255, 255, 255]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
