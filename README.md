@@ -1,2 +1,20 @@
 # nightshadeNeon
-beautiful black and neon color scheme born in the Wired
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/24a83341-b42b-4202-a9ca-719aae4221b2" />
+
+###### nightshadeNeon theme in Chromium
+
+**nightshadeNeon** is the color scheme used all across the [navi](https://github.com/xvoidsx/navi) GNU/Linux distribution, across all of our websites and platforms, and most other [xvoidsx](https://github.com/xvoidsx) projects.
+
+It is a beautiful black and neon color scheme, allowing you to enjoy dark mode with cyberpunk flair.
+
+### notes
+
+This repo hosts code and assets for **nightshadeNeon** themes across different browsers, notes, and more!
+
+### relevant links
+
+- [nightshadeNeon wiki page](https://rav3ndust.xyz/wiki/nightshadeNeon.html)
+- [nightshadeNeon Vivaldi theme](https://themes.vivaldi.net/themes/MD07K0Dl14Y)
+
+**nightshadeNeon** is also on its way to the Chrome Web Store and Mozilla Add-Ons for other Chromium and Firefox-based browsers!
