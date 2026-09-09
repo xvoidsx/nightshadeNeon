@@ -17,5 +17,3 @@ This repo hosts code and assets for **nightshadeNeon** themes across different b
 - [nightshadeNeon wiki page](https://rav3ndust.xyz/wiki/nightshadeNeon.html)
 - [nightshadeNeon on Chrome Web Store](https://chromewebstore.google.com/detail/nightshadeneon/lllmaajdpjgggpijpcaholegiejdoihk?authuser=0&hl=en)
 - [nightshadeNeon on Vivaldi themes](https://themes.vivaldi.net/themes/MD07K0Dl14Y)
-
-**nightshadeNeon** is also on its way to the Chrome Web Store and Mozilla Add-Ons for other Chromium and Firefox-based browsers!
