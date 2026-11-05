@@ -10,7 +10,7 @@ It is a beautiful black and neon color scheme, allowing you to enjoy dark mode w
 
 ### notes
 
-This repo hosts code and assets for **nightshadeNeon** themes across different browsers, notes, and more!
+This repo hosts code and assets for **nightshadeNeon** themes across different browsers and apps, some notes, and more!
 
 ### relevant links
 
