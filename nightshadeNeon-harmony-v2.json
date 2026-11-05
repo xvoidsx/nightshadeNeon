@@ -1,0 +1,25 @@
+{
+  "theme": "custom",
+  "customThemeMode": "dark",
+  "customPrimaryColor": "#ff10f0",
+  "customAccentColor": "#39ff14",
+  "customBackgroundColor": "#000000",
+  "customBackgroundLightness": -50,
+  "customBackgroundChroma": -17,
+  "customCssOverrides": {
+    "--border-color": "rgba(255, 16, 240, 0.14)",
+    "--border-primary": "rgba(255, 16, 240, 0.14)",
+    "--color-border": "rgba(255, 16, 240, 0.14)",
+    "--harmony-accent": "#39ff14",
+    "--harmony-primary": "#ff10f0",
+    "--harmony-primary-hover": "#e600e6",
+    "--harmony-secondary": "#00ffff",
+    "--harmony-secondary-alpha": "#00ffff26",
+    "--harmony-secondary-alpha-light": "#00ffff1a",
+    "--harmony-secondary-alpha-strong": "#00ffff40",
+    "--harmony-secondary-hover": "#00cccc",
+    "--harmony-secondary-light": "#00ffff1a",
+    "--text-danger": "#ff3131",
+    "--text-success": "#39ff14"
+  }
+}
